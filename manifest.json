@@ -60,7 +60,6 @@
     "background_color": "",
     "url": "https://github.com/Biyi003/pwatrial",
     "manifestUrl": "https://github.com/manifest.json",
-    "lang": "en",
-    "display": "minimal-ui",
-    "orientation": "portrait-primary"
+    "lang": "",
+    "start_url": "https://github.com/Biyi003/pwatrial/index.html"
 }
