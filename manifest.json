@@ -1,65 +1,43 @@
 {
-    "name": "GitHub",
-    "short_name": "GitHub",
+    "name": "Sample PWA",
+    "short_name": "SamplePWA",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
     "icons": [
-        {
-            "sizes": "114x114",
-            "src": "./pwa-builder.png"
-        },
-        {
-            "sizes": "120x120",
-            "src": "./pwa-builder.png"
-        },
-        {
-            "sizes": "144x144",
-            "src": "./pwa-builder.png"
-        },
-        {
-            "sizes": "152x152",
-            "src": "./pwa-builder.png"
-        },
-        {
-            "sizes": "180x180",
-            "src": "./pwa-builder.png"
-        },
-        {
-            "sizes": "57x57",
-            "src": "./pwa-builder.png"
-        },
-        {
-            "sizes": "60x60",
-            "src": "./pwa-builder.png"
-        },
-        {
-            "sizes": "72x72",
-            "src": "./pwa-builder.png"
-        },
-        {
-            "sizes": "76x76",
-            "src": "./pwa-builder.png"
-        },
-        {
-            "src": "./pwa-builder.png",
-            "type": "image/png",
-            "sizes": "192x192"
-        },
-        {
-            "src": "./pwa-builder.png",
-            "type": "image/png",
-            "sizes": "512x512"
-        }
-    ],
-    "prefer_related_applications": true,
-    "related_applications": [
-        {
-            "platform": "play",
-            "url": "https://play.google.com/store/apps/details?id=com.github.android",
-            "id": "com.github.android"
-        }
-    ],
-    "background_color": "",
-    "url": "https://github.com/Biyi003/pwatrial",
-    "manifestUrl": "https://github.com/manifest.json",
-    "lang": "",
-    "start_url": "https://github.com/Biyi003/pwatrial/index.html"
-}
+      {
+        "src": "/assets/images/pwalogo.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "/assets/images/pwalogo.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "/assets/images/pwalogo.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "/assets/images/pwalogo.png",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "/assets/images/pwalogo.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "/assets/images/pwalogo.png",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "/assets/images/pwalogo.png",
+        "type": "image/png", "sizes": "384x384"
+      },
+      {
+        "src": "/assets/images/pwalogo.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
